@@ -8,6 +8,22 @@ due_date: "Wednesday September 17, 2025 12:00pm EST (Noon)"
 submission_notes: Submit through Github Classroom
 ---
 
+{: .warning }
+> ## 🔄 Important Update: Repository Sync Required
+> If you've already accepted the assignment and have a repo set up:
+> 1. Check your assignment repo—you should see a Pull Request called "Sync Assignment" waiting to be merged
+> 2. **Merge this PR first** before starting any new work (this is super important!)
+> 3. After merging:
+>    - Pull the changes to your local main branch
+>    - Push to your repo to keep everything in sync
+>    - Then continue working on the main branch
+>
+> Haven't created your repo yet? No action needed—everything will be up-to-date when you start!
+>
+> Think of this as your first real-world experience with "Hey, the upstream repo changed—time to sync up!"
+>
+> **Note**: If you're having GitHub authentication issues, check your email for an invitation from us or contact course staff ASAP.
+
 Welcome aboard to the FakeStackOverflow team! We're glad that you're here and ready to join our development team as a new software engineer.
 We're building an interactive application for an online community to share their knowledge and experience, and are very happy to see that we have so many new developers who can help make this application a reality.
 By the end of the semester, you'll be able to propose, design, implement, and test new features for our project.
@@ -18,7 +34,7 @@ FakeStackOverFlow is a web application that consists of some code that runs in e
 This implementation effort will be split across two deliverables. In this first deliverable, you will implement and test the core backend components for this feature, and in the second deliverable, you will implement and test the frontend components.
 
 ## Change Log
-- NA
+- September 8, 2025: Added important repository sync instructions. All students with existing repositories must merge the "Sync Assignment" PR before continuing work.
 
 ## Objectives of this assignment
 
